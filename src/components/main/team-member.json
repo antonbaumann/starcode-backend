@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_team_team_members",
+  "info": {
+    "displayName": "Member",
+    "icon": "address-card",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "role": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "management": {
+      "type": "boolean"
+    }
+  }
+}

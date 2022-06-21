@@ -1,0 +1,43 @@
+{
+  "collectionName": "components_course_courses",
+  "info": {
+    "displayName": "Course",
+    "icon": "atlas",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "startDate": {
+      "type": "date"
+    },
+    "endDate": {
+      "type": "date"
+    },
+    "city": {
+      "type": "string"
+    },
+    "minimumAge": {
+      "type": "integer"
+    },
+    "maximumAge": {
+      "type": "integer"
+    },
+    "enrollFormUrl": {
+      "type": "string"
+    },
+    "icon": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}
