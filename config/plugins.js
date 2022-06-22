@@ -7,7 +7,7 @@ module.exports = ({env}) => ({
           privateKey: env('IMAGEKIT_PRIVATE_KEY'),
           urlEndpoint: `https://ik.imagekit.io/${env('IMAGEKIT_ID')}`,
           params: {
-            folder: "/bifolia"
+            folder: "/starcode"
           }
         }
       }
