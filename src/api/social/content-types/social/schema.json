@@ -20,6 +20,9 @@
     },
     "newsletterUrl": {
       "type": "string"
+    },
+    "linkedinUrl": {
+      "type": "string"
     }
   }
 }

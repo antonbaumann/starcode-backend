@@ -26,6 +26,21 @@
     },
     "management": {
       "type": "boolean"
+    },
+    "linkedinUrl": {
+      "type": "string"
+    },
+    "githubUrl": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "instagramUrl": {
+      "type": "string"
+    },
+    "facebookUrl": {
+      "type": "string"
     }
   }
 }
