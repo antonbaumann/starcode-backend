@@ -23,6 +23,9 @@
     },
     "linkedinUrl": {
       "type": "string"
+    },
+    "githubUrl": {
+      "type": "string"
     }
   }
 }
