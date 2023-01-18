@@ -1,3 +1,13 @@
+# Starcode Backend
+
+## Development
+Clone the repo and run `npm install` to install all dependencies.\
+To start the development server run `npm run develop` and the server will start on port `1337`.
+
+## Content
+You can create content types and add fields on the admin panel at `http://localhost:1337/admin`.
+
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
@@ -51,7 +61,3 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 - [Discord](https://discord.strapi.io) - Come chat with the Strapi community including the core team.
 - [Forum](https://forum.strapi.io/) - Place to discuss, ask questions and find answers, show your Strapi project and get feedback or just talk with other Community members.
 - [Awesome Strapi](https://github.com/strapi/awesome-strapi) - A curated list of awesome things related to Strapi.
-
----
-
-<sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
